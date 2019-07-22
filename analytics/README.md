@@ -1,35 +1,18 @@
-# Code Challenge: Data Analysis and Visualization
+# Take Home Challenge: Data Analysis and Visualization
 
 Analytics is about more than just numbers! At ICX, we take a holistic view of analysis, which includes gathering and interacting with data, performing statistical analyses, creating visualizations, and telling stories. For this challenge, you'll get to show off your end-to-end analytics chops! Here are the steps:
-
-## Clone the Repository
-
-```bash
-  $ git clone git@github.com:icxmedia/code-challenges.git
-  $ cd code-challenges  
-  $ cd analytics    
-```
-## Launch the Notebook
-In Jupyter, open the file called "nba_player_stats.ipynb"
-
-```bash
-  $ jupyter notebook nba_player_stats.ipynb 
-```
 
 ## Download the Data
 NBA 2014 Players Dataset: [http://bit.ly/2n9twqX](http://bit.ly/2n9twqX)
 
-## Load the Data and Perform Statistical Analysis
-Given a dataset of NBA players performance and salary in 2014, use Python to load the dataset (e.g. using the `csv` module or `pandas`) and compute the summary statistics for the `SALARY` field:
-
-- mean
-- median
-- mode
-- minimum
-- maximum
+## Explore the Data and Perform Statistical Analysis
+Given a dataset of NBA players performance and salary in 2014:
+1. Load the dataset using your preferred tool (Jupyter notebook, RStudio, Excel, etc)
+2. Compute the summary statistics for the `SALARY` field (e.g. mean, median, mode, maximum, minimum)
+3. Create a custom visualization to describe the relationship of player efficiency (PER) to salary.
 
 ## Data Visualization and Storytelling
-Then, create a custom visualization (using whichever Python library or libraries you like), and with accompanying text, describe the relationship of player efficiency (PER) to salary.
+Imagine that your client is an owner for one of the middle-tier teams; they've asked you to produce a novel analysis to help inform their upcoming 2020-2025 recruitment budget planning meeting. Come up with a slide deck (~5-10 slides) that effectively communicates the results of your analysis and conveys the takeaways that are most relevant to your client's business problem(s).
 
 ## Save and Send!
-Save your new version of the notebook and send it back to us, either via a Gist link or an email.
+Send us your slide deck via a link or an email!
