@@ -3,8 +3,8 @@ Analytics is about more than just numbers! At ICX, we take a holistic view of an
 
 ## Get the Data  
 This challenge comes with two datasets -- the first of which contains information about YouTube videos (descriptions, engagement data, etc), and the second of which contains comments made in reponse to each video  
-Video descriptions dataset: <<link>>  
-Video comments dataset: <<link>>  
+Video descriptions dataset: video_descriptions.csv https://tinyurl.com/qsy4aoy  
+Video comments dataset: video_comments.csv https://tinyurl.com/qsy4aoy  
 
 ## Explore the Data and Perform Statistical Analysis  
 1. Load both datasets using your preferred tool (Jupyter notebook, RStudio, Excel, etc)  
